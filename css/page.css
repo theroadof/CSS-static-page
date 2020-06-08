@@ -1,0 +1,55 @@
+div{
+    margin: 0 auto;
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 50vw;
+    display: block;
+    margin: 0 auto;
+}
+
+#photo{
+    width: 70px;
+}
+
+span{
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 250;
+}
+
+.block > span{
+    width: 750px;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 250;
+}
+
+.leftblock{
+    float: left;
+    margin: 0px;
+    width: 250px;
+    margin: 0 auto;
+    position: relative;
+    left: 400px;
+}
+
+.middleblock{
+    margin: 0px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+#rightblock{
+    float: right;
+    width: 250px;
+    position: relative;
+    right: 400px;
+}
